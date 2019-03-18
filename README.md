@@ -1,6 +1,6 @@
 # palaeo-transversospinal
 
-**Michael P. Taylor <dino@miketaylor.org.uk>**
+**Michael P. Taylor <dino@miketaylor.org.uk>**  
 **Mathew J. Wedel <mathew.wedel@gmail.com>**
 
 This respository contains work on an in-progress paper that will describe the attachment points for transversospinal muscles in the pelvis and dorsal column of sauropod dinosaurs.
